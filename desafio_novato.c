@@ -2,12 +2,12 @@
 
 int main(){
 	int codigo_carta1=0, codigo_carta2=0; //Variavel que receberá os códigos 01 a 04
-  int populacao1=0, populacao2=0; //Variavel que receberá os dados de população
-  int pontos_turisticos1=0, pontos_turisticos2=0; //Variavel que receberá a quantidade de pontos turisticos
+	int populacao1=0, populacao2=0; //Variavel que receberá os dados de população
+	int pontos_turisticos1=0, pontos_turisticos2=0; //Variavel que receberá a quantidade de pontos turisticos
 	float area1=0, area2=0; //Variavel que receberá as informações de area
-  float PIB1=0, PIB2=0; //Variavel que receberá os valores de PIB
+	float PIB1=0, PIB2=0; //Variavel que receberá os valores de PIB
 	char estado1, estado2; //Variavel que receberá os códigos de Estado de A ate H
-  char nome_cidade1[20], nome_cidade2[20]; //Variavel que receberá os nomes das cidades
+	char nome_cidade1[20], nome_cidade2[20]; //Variavel que receberá os nomes das cidades
 	
 	//Entrada de dados da carta 1 
 	printf("Carta 01. \n");
